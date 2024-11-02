@@ -1,0 +1,1 @@
+# case study is based on a computer hardware business which is facing challenges in a dynamically changing market. So here we use a Power BI dashboard that can give insights like region-wise revenue/profit contribution over time, best consumers and products etc. 
